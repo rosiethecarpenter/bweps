@@ -1,0 +1,35 @@
+[
+
+    
+    
+
+
+    
+    
+{
+    "image": "./img/Overalls1.jpg"
+    "title": "Overalls"
+    "price": "160"
+    "description": "These are some pretty good looking overalls. If you wear them you will look like Rosie the Riveter (basically me) and be a strong independant woman. Need I say more? Get that credit card out!"
+    "variant": {
+        "color": ["blue","black","white"],
+        "size": ["2","4","6","8","10","12"]
+    }
+},
+    
+    
+{
+    "image": "./img/skirt.jpg"
+    "title": "Skirt"
+    "price": "300"
+    "description This is a pretty good looking skirt. If you wear them you will look like Rosie the Riveter (basically me) and be a strong independant woman. Need I say more? Get that credit card out!"
+    "variant": {
+        "color": ["blue","black","white"],
+        "size": ["2","4","6","8","10","12"]
+    }
+}    
+    
+    
+    
+    
+]
